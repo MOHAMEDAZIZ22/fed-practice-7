@@ -1,0 +1,23 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    font-size: 30px;
+
+}
+
+table{
+    width: 60%;
+    align-items: center;
+    border: 2px solid ;
+    margin: auto;
+    margin-top: 50px;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
