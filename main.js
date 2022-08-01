@@ -9,6 +9,7 @@ function calculate(calc){
 function price(){
     
     let a = this.parentNode.parentNode;
+
     let u = a.querySelector("td .unit");
     let x = u.value;
     console.log(x)
